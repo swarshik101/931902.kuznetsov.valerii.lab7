@@ -1,0 +1,25 @@
+.square {
+	position: absolute;
+	background-color: rgba(255, 0, 0, 0.85);
+	border: black solid 1px;
+}
+
+.triangle {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+}
+
+.circle {
+	position: absolute;
+	background-color: rgba(0, 100, 0, 0.85);
+	border: black solid 1px;
+}
+
+button {
+	margin-top: 5px;
+}
+
+button:hover {
+	cursor: pointer;
+}
